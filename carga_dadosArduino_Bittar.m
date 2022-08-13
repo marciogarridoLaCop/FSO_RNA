@@ -1,11 +1,10 @@
 % Programa de Pós Graduação em Engenharia Elétrica e Telecomunicações
 % LACOP - Laboratório de Comunicações Óticas - UFF
 % Aluno : Márcio Alexandre Dias Garrido
-% Data : Fev/20212
-% Coleta de dados
 
 clear;
 clc;
+% Altere o nome do arquivo que deseja carregar
 load('4v_30_01_1902.mat')
 clc;
 format long;
